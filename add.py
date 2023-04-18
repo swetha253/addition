@@ -1,2 +1,3 @@
-x,y=input("enter values:")
+x=int(input("enter values:"))
+y=int(input("enter values:"))
 print(x+y)
